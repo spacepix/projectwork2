@@ -1,7 +1,7 @@
 # User Stories
 
 1. US1: Plan a Trip<br>
-_Description_:As a user i want to Plan a trip with different search options . 
+_Description_:As a user i want to Plan a trip with different search options. 
 And display all results.
 2. US2: Change Language<br>
 _Description_:As a user i want to change the site Language.
