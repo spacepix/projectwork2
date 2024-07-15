@@ -1,6 +1,6 @@
 # User Stories
 
-1. US1: Plan a Trip on BKK's website<br>
+1. US1: Plan a trip on BKK's website<br>
 _Description_:I would like to plan a trip as a BKK user with different search options. 
 I would like to display all possible results.
 2. US2: Switch the language<br>
