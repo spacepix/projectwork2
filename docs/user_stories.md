@@ -1,16 +1,13 @@
 # User Stories
 
-1. US1: Plan a Trip<br>
-_Description_:As a user i want to Plan a trip with different search options. 
-And display all results.
-2. US2: Change Language<br>
-_Description_:As a user i want to change the site Language.
-3. US3: Contact Support<br>
-_Description_:As a user i want to be able to report bugs with the site.
-4. US4. Look up a Route<br>
-_Description_: As a user i want to look up a specific Route by searching for its Number.And see the Stops list and rout.
-5. US5. Look up an Address<br>
-_Description_:As a user i want to search for all available Routes and means of transport from a specific Address, And display all results.
-
-
-
+1. US1: Plan a Trip on BKK's website<br>
+_Description_:I would like to plan a trip as a BKK user with different search options. 
+I would like to display all possible results.
+2. US2: Switch the language<br>
+_Description_:I would like to change the displayed language on the BKK's website. 
+3. US3: Contact support hotline<br>
+_Description_:I would like to be able to report bugs on the BKK's website via support contact.
+4. US4. Check for a route<br>
+_Description_: I would like to check a specific route by searching for its number. I would liek to see the stops list and the planned route.
+5. US5. Check for an address<br>
+_Description_:I would like to search for all available routes and possible transport ways from a specific address. I would like to display all possible results.
