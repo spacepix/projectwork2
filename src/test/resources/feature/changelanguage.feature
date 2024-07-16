@@ -1,7 +1,7 @@
-Feature: Switch the language - select another language on BKK's website
+Feature: Switch the language - select another language on BKK's website BudapestGO
 
   Background:
-    Given I open BKK's website
+    Given I open BudapestGO
     When I accept cookies
 
 
