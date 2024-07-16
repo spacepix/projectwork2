@@ -1,4 +1,4 @@
-Feature: Select another language on BKK's website
+Feature: Switch the language - select another language on BKK's website
 
   Background:
     Given I open BKK's website
